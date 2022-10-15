@@ -1,3 +1,6 @@
+Oct 15 17:16:21 YousryLinux su: pam_unix(su:session): session closed for user root
+Oct 15 17:17:01 YousryLinux CRON[31889]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 15 17:17:01 YousryLinux CRON[31889]: pam_unix(cron:session): session closed for user root
 Oct 15 17:21:01 YousryLinux su: (to root) yousry on pts/1
 Oct 15 17:21:01 YousryLinux su: pam_unix(su:session): session opened for user root(uid=0) by yousry(uid=1000)
 Oct 15 17:25:48 YousryLinux su: pam_unix(su:session): session closed for user root
@@ -5,6 +8,3 @@ Oct 15 17:30:01 YousryLinux CRON[76063]: pam_unix(cron:session): session opened 
 Oct 15 17:30:01 YousryLinux CRON[76063]: pam_unix(cron:session): session closed for user root
 Oct 15 17:50:22 YousryLinux su: (to root) yousry on pts/1
 Oct 15 17:50:22 YousryLinux su: pam_unix(su:session): session opened for user root(uid=0) by yousry(uid=1000)
-Oct 15 17:51:05 YousryLinux su: pam_unix(su:session): session closed for user root
-Oct 15 17:51:35 YousryLinux su: (to root) yousry on pts/1
-Oct 15 17:51:35 YousryLinux su: pam_unix(su:session): session opened for user root(uid=0) by yousry(uid=1000)
